@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-
+import click1 from './click1';
+import click2 from './click2';
 
 class Metronome extends Component {
     constructor(props){
